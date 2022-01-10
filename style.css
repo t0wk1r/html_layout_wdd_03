@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.mainlayout{
+	width: 90%;
+	height: 100vh;
+	border: 5px solid;
+	margin: auto;
+
+}
+
+.header{
+	width: 95%;
+	height: 15%;
+	border: 5px solid;
+	margin: auto;
+	margin-top: 1%;
+	background: #ED1C24;
+}
+
+.menu{
+	width: 95%;
+	height: 8%;
+	border: 5px solid;
+	margin: auto;
+	margin-top: 1%;
+	background: #B97A57;
+}
+
+.duitabox{
+	width: 95%;
+	height: 60%;
+	border: 0px solid;
+	margin: auto;
+	margin-top: 1%;
+}
+
+.leftbox{
+	width: 74%;
+	height: 100%;
+	border: 5px solid;
+	float: left;
+	background: #22B14C;
+}
+
+.rightbox{
+	width: 24%;
+	height: 100%;
+	border: 5px solid;
+	float: right;
+	background: #7092BE;
+}
+
+.footer{
+	width: 95%;
+	height: 5%;
+	border: 5px solid;
+	margin: auto;
+	margin-top: 1%;
+	background: #3F48CC;
+}
